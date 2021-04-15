@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+body{
+    font-family: 'New Tegomin', serif;
+    font-size: x-large;
+    height: 100%;
+    
+}
+
+.img-fluid{
+    object-fit: cover;
+
+    width: 300px;
+    height: 200px;
+    border: 15px;
+    border-color: rgb(194, 176, 182);
+    border-style:solid;
+}
+  .tekst-body{
+      font-size: medium;
+  }
+  
+
